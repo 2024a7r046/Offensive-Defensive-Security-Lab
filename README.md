@@ -1,8 +1,8 @@
 # Offensive and Defensive Security Lab
 
 **Contributor:** Arnav   
-**Course Code:** COM-502
-**Course:** Offensive and Defensive Security Lab
+     **Course Code:** COM-502
+     **Course:** Offensive and Defensive Security Lab
 **Program:** B.Tech CSE (Cyber Security)
 **Institute:** MIET (Autonomous), Jammu
 
