@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300" role="img" aria-labelledby="title desc">
+  <title id="title">Offline analysis of password-guessing risk</title>
+  <desc id="desc">Synthetic authentication summaries are reviewed offline, followed by recommendations for layered authentication defenses; no login attempts are made.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0 0L10 5L0 10Z" fill="#526579"/>
+    </marker>
+  </defs>
+  <rect width="760" height="300" rx="18" fill="#f4f7fb"/>
+  <text x="32" y="42" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#172b4d">Offline review of authentication risk</text>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <rect x="34" y="88" width="198" height="94" rx="12" fill="#e1efff" stroke="#7ca9d8"/>
+    <text x="133" y="122" font-size="15" font-weight="700" fill="#17365d">Synthetic event summary</text>
+    <text x="133" y="150" font-size="12" fill="#345">No passwords or identities</text>
+    <rect x="281" y="88" width="198" height="94" rx="12" fill="#e7f5ed" stroke="#79b58d"/>
+    <text x="380" y="122" font-size="15" font-weight="700" fill="#174b2b">Offline trend review</text>
+    <text x="380" y="150" font-size="12" fill="#345">Investigate authorized logs</text>
+    <rect x="528" y="88" width="198" height="94" rx="12" fill="#fff1d9" stroke="#d8ae62"/>
+    <text x="627" y="122" font-size="15" font-weight="700" fill="#684400">Layered defenses</text>
+    <text x="627" y="150" font-size="12" fill="#345">MFA + rate limits + alerts</text>
+    <path d="M238 135H270" stroke="#526579" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M485 135H517" stroke="#526579" stroke-width="3" marker-end="url(#arrow)"/>
+  </g>
+  <rect x="34" y="220" width="692" height="43" rx="10" fill="#172b4d"/>
+  <text x="380" y="247" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">No password guessing tools, login attempts, or live accounts.</text>
+</svg>

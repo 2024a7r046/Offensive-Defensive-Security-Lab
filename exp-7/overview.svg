@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300" role="img" aria-labelledby="title desc">
+  <title id="title">Privacy-preserving OSINT exposure review</title>
+  <desc id="desc">Public organizational sources are reviewed within an approved scope, minimized, assessed for exposure, and used to recommend mitigations.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0 0L10 5L0 10Z" fill="#526579"/>
+    </marker>
+  </defs>
+  <rect width="760" height="300" rx="18" fill="#f4f7fb"/>
+  <text x="32" y="42" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#172b4d">Privacy-preserving exposure review</text>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <rect x="28" y="92" width="162" height="94" rx="12" fill="#e1efff" stroke="#7ca9d8"/>
+    <text x="109" y="126" font-size="15" font-weight="700" fill="#17365d">Approved scope</text>
+    <text x="109" y="153" font-size="12" fill="#345">Fictional or authorized</text>
+    <rect x="218" y="92" width="162" height="94" rx="12" fill="#e7f5ed" stroke="#79b58d"/>
+    <text x="299" y="126" font-size="15" font-weight="700" fill="#174b2b">Public sources</text>
+    <text x="299" y="153" font-size="12" fill="#345">Minimal collection</text>
+    <rect x="408" y="92" width="162" height="94" rx="12" fill="#fff1d9" stroke="#d8ae62"/>
+    <text x="489" y="126" font-size="15" font-weight="700" fill="#684400">Exposure review</text>
+    <text x="489" y="153" font-size="12" fill="#345">Impact + confidence</text>
+    <rect x="598" y="92" width="134" height="94" rx="12" fill="#f0e9fb" stroke="#a28ac2"/>
+    <text x="665" y="126" font-size="15" font-weight="700" fill="#49336b">Mitigate</text>
+    <text x="665" y="153" font-size="12" fill="#345">Reduce disclosure</text>
+    <path d="M194 139H208" stroke="#526579" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M384 139H398" stroke="#526579" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M574 139H588" stroke="#526579" stroke-width="3" marker-end="url(#arrow)"/>
+  </g>
+  <rect x="28" y="220" width="704" height="43" rx="10" fill="#172b4d"/>
+  <text x="380" y="247" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">No private individuals, account access, infrastructure probing, or unnecessary personal data.</text>
+</svg>

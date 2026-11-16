@@ -4,6 +4,10 @@
 
 To assess what information an organization may unintentionally expose through public sources and recommend ways to reduce that exposure.
 
+> **Illustration:** Original schematic, not a screenshot of a completed lab run.
+
+![Privacy-preserving OSINT exposure review](overview.svg)
+
 ## Scope and Safety
 
 Use a fictional organization or an organization that has explicitly authorized the review. Do not investigate private individuals, seek non-public information, bypass access controls, contact employees, or probe systems. Keep notes limited to information necessary to describe a risk.

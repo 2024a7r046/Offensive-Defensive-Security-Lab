@@ -4,6 +4,10 @@
 
 To evaluate a fictional set of authentication events and propose controls that reduce password-guessing risk without attempting logins or testing real accounts.
 
+> **Illustration:** Original schematic, not a screenshot of a completed lab run.
+
+![Offline analysis of password-guessing risk](overview.svg)
+
 ## Scope and Safety
 
 This is an offline analysis exercise. Do not use Hydra or other password-guessing tools, submit login attempts, or test real accounts. The synthetic events below contain no passwords, account names, or identifying information.

@@ -4,6 +4,10 @@
 
 To map a fictional incident timeline to relevant MITRE ATT&CK tactics and techniques and identify defensive detection opportunities.
 
+> **Illustration:** Original schematic, not a screenshot of a completed lab run.
+
+![Defensive incident mapping with MITRE ATT&CK](overview.svg)
+
 ## Scenario
 
 An organization reviews synthetic endpoint and identity logs. The records show an unusual sign-in, followed by a new process on a workstation and an outbound connection that the endpoint team later blocked. The records contain no real usernames, addresses, or credentials.

@@ -4,6 +4,10 @@
 
 To use OWASP ZAP's passive analysis to review a web application running locally and document findings with appropriate remediation.
 
+> **Illustration:** Original schematic, not a screenshot of a completed lab run.
+
+![OWASP ZAP passive review of a local application](overview.svg)
+
 ## Scope and Safety
 
 Scan only an application you own or have explicit permission to assess. Keep the target on the local machine (for example, `http://127.0.0.1:3000`) and use passive scanning only. Do not scan public websites or third-party systems.

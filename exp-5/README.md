@@ -4,6 +4,10 @@
 
 To inspect protocol metadata in a packet capture and explain how encryption and secure session management reduce the risk of traffic interception.
 
+> **Illustration:** Original schematic, not a screenshot of a completed lab run.
+
+![Authorized packet review and session protections](overview.svg)
+
 ## Scope and Safety
 
 Use only a packet capture supplied by your instructor or created on an isolated lab network that you control. Do not capture other people's traffic, collect real credentials, or attempt to take over a session. This exercise is observational and does not perform session hijacking.
